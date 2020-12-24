@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WqCNy748ry5uozXLryLH7841mA+hpe6BO1X6P6JbIQZd3nLqAKT4cSaZ9CruQVSHyMo+4u9aToFyXpl3ieJAxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vivia\\OneDrive\\Documentos\\Repositórios\\aplicando-design-patterns-csharp-bootcampDecolaDev\\DesignPatterns\\Workbench.DependencyInjection.Extensions\\Workbench.DependencyInjection.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vivia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

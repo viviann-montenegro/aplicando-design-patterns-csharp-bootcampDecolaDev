@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CaiIEGeEP2qVu0cqiyJvYVylPA2LV6AJoj46kbniBfykxAaiL3FfSeXzcFflBI3QWOjZl7d9dYi4YR2fQ+1/fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vivia\\OneDrive\\Documentos\\Repositórios\\aplicando-design-patterns-csharp-bootcampDecolaDev\\DesignPatterns\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vivia\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.9\\microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\vivia\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\vivia\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
